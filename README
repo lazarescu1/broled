@@ -3,7 +3,7 @@ broled - brightness oled
 
 OLED Brightness Control (written in C)
 
-A small C program that let's you change the
+A small C program that lets you change the
 screen brightness.
 
 I wrote this program to change the brightness
